@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: ALFRED OCHOLA
+title: BLOG
 permalink: /blog
 section: blog
 intro_paragraph: >-
-  ![CEO, AYSH INVENTIONS LTD](/assets/img/uploads/alfie.png)
+  ![](/assets/img/uploads/error1.png "CEO, AYSH INVENTIONS LTD")
 
 
   Hi, this is Alfred, the computer genius. This web technology has really disturbed me of late. But it is a wonderful one.
