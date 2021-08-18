@@ -4,8 +4,10 @@ title: ALFRED OCHOLA
 permalink: /blog
 section: blog
 intro_paragraph: >-
-  Hi, this is Alfred, the computer genius. This web technology has really
-  disturbed me of late. But it is a wonderful one.
+  ![CEO, AYSH INVENTIONS LTD](/assets/img/uploads/alfie.png)
+
+
+  Hi, this is Alfred, the computer genius. This web technology has really disturbed me of late. But it is a wonderful one.
 
 
   ## HOW IT BEGUN
