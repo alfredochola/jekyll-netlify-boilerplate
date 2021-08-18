@@ -1,11 +1,23 @@
 ---
 layout: blog
-title: The Blog
+title: ALFRED OCHOLA
 permalink: /blog
 section: blog
-intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+intro_paragraph: >-
+  ![CEO, AYSH INVENTIONS LTD](/assets/img/uploads/alfie.png)
+
+
+  Hi, this is Alfred, the computer genius. This web technology has really disturbed me of late. But it is a wonderful one.
+
+
+  ## HOW IT BEGUN
+
+
+  It all started when I got a wonderful client, lapo solutions Ltd. They ordered for a new website and i thought to myself, wow. God is so amazing.
+
+
+  `<html>`
+
+
+  `<body> testing code`
 ---
